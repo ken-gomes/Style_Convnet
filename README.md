@@ -1,2 +1,2 @@
 # Style_Convnet
-Combines the content of one picture with the style of another picture to create a unique image.
+Neural Style Transfer (NST): Generates a new image that combines the content of one picture with the style of another picture.
